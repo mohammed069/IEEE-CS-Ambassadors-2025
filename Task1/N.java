@@ -4,7 +4,6 @@ public class N {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
-        // قراءة الأرقام A و B
         int A = scanner.nextInt();
         int B = scanner.nextInt();
         scanner.nextLine(); 
